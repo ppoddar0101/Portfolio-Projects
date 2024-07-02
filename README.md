@@ -7,3 +7,13 @@ This is the dataset from Kaggle: https://www.kaggle.com/datasets/nelgiriyewithan
 Data Exploration - Covid Data - SQL Project
 
 Data Professional Survey Breakdown - Power Bi Dahsboard
+
+This repository contains a Power Bi dashboard for a Data Professional Survey, explore the features to gain insights into demographics, job roles, programming languages and more. The interactive features using the Power Bi dashboard link allows users to drill down into specific areas of interest, gainning deeper insights into the data.
+
+Key Findings:
+- 630 survey participaints from 5 countries
+- Average age: 29.87 years
+- Python is the most popular programming language
+Features used:
+- Gender distribution drill-down: exlpore male and female representation in data roles
+- DAX measures: used to work out average age of all survey respondents
